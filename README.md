@@ -1,1 +1,1 @@
-![midicix-welcome](https://user-images.githubusercontent.com/94143634/216336185-bc055ac0-0733-4de9-b557-cb59fec48668.svg)
+![midicix-welcome](https://user-images.githubusercontent.com/94143634/231303931-039ea114-51a2-441c-8897-995fbfa214e5.svg)
