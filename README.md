@@ -5,3 +5,5 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" width="100"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Midicix"/>
