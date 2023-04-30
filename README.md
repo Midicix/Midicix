@@ -1,3 +1,4 @@
+---
 <div class="header" align="center">
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/4079de139242b97926c5b0e941f0f144928d3db5/welcome.svg"/>
 </div>
@@ -33,3 +34,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midicix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
