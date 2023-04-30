@@ -49,7 +49,7 @@
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
                     dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
                     </path>
     <text font-family='"monospace", monospace' fill='#16C414' font-size='27'
         dominant-baseline='middle'
