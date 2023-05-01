@@ -1,5 +1,5 @@
 ---
-<div class="header" align="center" background-image=url('https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true')>
+<div class="header" align="center" style = "background-image=url('https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true')">
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/4079de139242b97926c5b0e941f0f144928d3db5/welcome.svg"/>
 </div>
 
