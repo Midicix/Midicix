@@ -36,3 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midicix&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### :fire: My social Media :
