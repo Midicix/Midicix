@@ -1,6 +1,6 @@
 ---
 <div class="prompt" align="center">
-  <img src="url(https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true)"/>
+  <img src="url(https://raw.githubusercontent.com/Midicix/Midicix/7ea9c05a52c1450149882677d31ca62a5e5d2572/cmd.svg)"/>
 </div>
 
 <div class="header" align="center">
