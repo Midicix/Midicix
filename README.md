@@ -1,6 +1,6 @@
 ---
 <div class="prompt" align="center">
-  <img src="https://raw.githubusercontent.com/Midicix/Midicix/c43d98d172541b8686419a7148cb50b5af5bc1da/welcome.svg"/>
+  <img src="https://raw.githubusercontent.com/Midicix/Midicix/1a098c4a4659358f8c9c7a03db2c86f2e231f322/cmd.svg"/>
 </div>
 
 <div class="header" align="center">
