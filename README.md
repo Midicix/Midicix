@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/c06050a4905b98ac04cfdd8f75b49319fc1ab836/cmdtest2.svg"/>
 </div>
 
+<div class="command" align="center">
+  <img scr="https://raw.githubusercontent.com/Midicix/Midicix/main/cmdV2-nbck.png" />
+  <img src="https://raw.githubusercontent.com/Midicix/Midicix/c06050a4905b98ac04cfdd8f75b49319fc1ab836/cmdtest2.svg" />
+</div>
+
 <div class="header" align="center">
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" width="100"/>
 </div>
