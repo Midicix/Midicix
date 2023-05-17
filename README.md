@@ -1,5 +1,5 @@
 ---
-<div class="prompt" align="center" justify="end">
+<div class="prompt" align="center" justify="start">
   <img src="https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true"/>
 </div>
 <div class="prompt" align="center">
