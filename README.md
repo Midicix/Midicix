@@ -1,8 +1,5 @@
 ---
-<div class="prompt" align="center" style="position:relative;">
-  <img src="https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true" style="position:absolute; top:0; left:0;"/>
-  <img src="https://raw.githubusercontent.com/Midicix/Midicix/c06050a4905b98ac04cfdd8f75b49319fc1ab836/cmdtest2.svg" style="position:absolute; top:0; left:0; z-index:1;"/>
-</div>
+![Background Image](path/to/your/image.svg)
 
 <div class="command" align="center">
   <img scr="https://raw.githubusercontent.com/Midicix/Midicix/main/cmdV2-nbck.png" />
