@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="[path/to/your/image.svg](https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)" alt="Background Image" />
+  <img src="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg" alt="Background Image" />
 </p>
 
 <div class="header" align="center">
