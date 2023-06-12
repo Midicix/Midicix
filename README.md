@@ -1,7 +1,5 @@
 ---
-<p align="center">
-  <img src="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg" alt="Background Image" />
-</p>
+<img src="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg" alt="Background Image" />
 
 
 <div class="header" align="center">
