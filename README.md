@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img scr="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg" />
+  <img scr="[https://github.com/](https://raw.githubusercontent.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)" />
 </div>
   
 <div class="command" align="center">
