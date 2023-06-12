@@ -1,7 +1,7 @@
 ---
-<p align="center">
+<div align="center">
   <img src="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg" alt="Background Image" />
-</p>
+</div>
 
 <div class="header" align="center">
   <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" width="100"/>
