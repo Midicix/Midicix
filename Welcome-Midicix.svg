@@ -1,12 +1,17 @@
 <!-- svg file created by : https://github.com/Midicix/ -->
 <!-- typing effect created by : https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 11 300 50' width='800px' height='350px'>
+  	<style>
+		.background {
+		  fill: url(#background-image);
+		}
+	</style>
   <defs>
-    <pattern id="background" patternUnits="userSpaceOnUse" width="200%" height="200%" patternTransform="translate(-160, 0)">
+    <pattern id="background-image" patternUnits="userSpaceOnUse" width="200%" height="200%" patternTransform="translate(-160, 0)">
       <image xlink:href="https://github.com/Midicix/Midicix/blob/main/cmdV2-nbck.png?raw=true" width="200%" height="200%" />
     </pattern>
   </defs>
-  <rect width="200%" height="200%" fill="url(#background)"/>
+  <rect class="background" width="200%" height="200%"/>
   <path id='path0'>
     <!-- Single line -->
     <animate id='d0' attributeName='d' begin='0s;d3.end' dur='5000ms' fill='remove' values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
