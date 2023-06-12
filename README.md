@@ -1,6 +1,8 @@
 ---
-![Background Image](https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)
-
+<div align="center">
+  ![Background Image](https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)
+</div>
+  
 <div class="command" align="center">
   <img scr="https://raw.githubusercontent.com/Midicix/Midicix/main/cmdV2-nbck.png" />
   <!-- 
