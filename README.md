@@ -30,8 +30,8 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=dark.png#gh-dark-mode-only)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=default.png#gh-light-mode-only)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=dark#gh-dark-mode-only)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=default#gh-light-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midicix&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 ---
