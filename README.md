@@ -1,7 +1,7 @@
 ---
 <!-- svg file created by : https://github.com/Midicix/ -->
 <!-- typing effect created by : https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 11 300 50' width='800px' height='350px'>
+<svg xmlns='http://www.w3.org/2000/svg' xlink='http://www.w3.org/1999/xlink' viewBox='0 11 300 50' width='800px' height='350px'>
    <style>
       .background {
          fill: url(#background-image);
