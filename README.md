@@ -1,6 +1,14 @@
 ---
 ![Background Image](https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)
 
+<div class="header" align="center">
+  <img src="https://raw.githubusercontent.com/Midicix/Midicix/main/hacker.png" width="100"/>
+</div>
+
+<div class="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Midicix"/>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
