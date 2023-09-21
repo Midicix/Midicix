@@ -45,4 +45,6 @@
 ---
 
 ### :link: My social Media :
-<img src="https://github.com/Midicix/Midicix/blob/main/instagram.png?raw=true"/>
+<a href="https://www.instagram.com/midicixoff/">
+  <img src="https://github.com/Midicix/Midicix/blob/main/instagram.png?raw=true"/>
+</a>
