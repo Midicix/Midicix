@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Midicix"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Site%20WEB-dark_green"/>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
