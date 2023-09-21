@@ -1,6 +1,6 @@
 ---
 <div class="header" align="center">
-  ![Background Image](https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg)
+  <img src="https://github.com/Midicix/Midicix/blob/main/Welcome-Midicix.svg"/>
 </div>
 
 <div class="header" align="center">
