@@ -10,7 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Site%20WEB-dark_green"/>
+  <a href="midicix.github.io" target="_Blank">
+    <img src="https://img.shields.io/badge/Site%20WEB-dark_green"/>
+  </a>
 </div>
 
 ---
