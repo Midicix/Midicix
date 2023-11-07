@@ -43,7 +43,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midicix&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midicix&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[GitHub Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Midicix&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true)
+[![GitHub Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Midicix&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true)
 
 ---
 
