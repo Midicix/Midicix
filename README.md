@@ -38,7 +38,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=darcula&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Midicix&theme=gruvbox_light&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midicix&layout=compact&theme=darcula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midicix&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
