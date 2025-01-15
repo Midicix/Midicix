@@ -77,7 +77,5 @@
 
 
 ### This readme element 100% create by me 
-<img src="https://midi-api-visitcard.vercel.app/Midicix"/>
 
-### test
-<img src="https://r4.wallpaperflare.com/wallpaper/558/777/255/8k-ultra-hd-mountain-lake-nature-wallpaper-23db635deda9fbb5fff602d708bb9808.jpg"/>
+[![Anurag's GitHub stats](https://midi-api-visitcard.vercel.app/Midicix)](https://github.com/Midicix)
