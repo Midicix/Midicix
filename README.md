@@ -78,4 +78,4 @@
 
 ### This readme element 100% create by me 
 
-[![Anurag's GitHub stats](https://midi-api-visitcard.vercel.app/Midicix)](https://github.com/Midicix)
+[![Anurag's GitHub stats](https://midi-api-visitcard.vercel.app/Midicix)](https://github.com/Midicix/wanted-readme)
